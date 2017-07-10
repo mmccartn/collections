@@ -1,0 +1,18 @@
+{
+  "name": "collections",
+  "version": "5.0.6",
+  "authors": [
+    "Kris Kowal"
+  ],
+  "description": "data structures with idiomatic JavaScript collection interfaces",
+  "main": "dist/collections.js",
+  "license": "BSD-3-Clause",
+  "ignore": [
+    ".git*",
+    "bench",
+    "demo",
+    "listen",
+    "node_modules",
+    "test"
+  ]
+}

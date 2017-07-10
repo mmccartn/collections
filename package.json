@@ -5,11 +5,11 @@
   "homepage": "http://www.collectionsjs.com",
   "author": "Kris Kowal <kris@cixar.com> (http://github.com/kriskowal)",
   "contributors": [
-   {
-     "name": "Benoit Marchant"
-   }
- ],
- "keywords": [
+    {
+      "name": "Benoit Marchant"
+    }
+  ],
+  "keywords": [
     "collections",
     "data structures",
     "observable",
@@ -33,6 +33,7 @@
     "url": "http://github.com/montagejs/collections.git"
   },
   "dependencies": {
+    "browserify": "^14.4.0",
     "weak-map": "~1.0.x"
   },
   "devDependencies": {

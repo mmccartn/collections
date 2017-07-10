@@ -1,3 +1,5 @@
+*Pre-Browserified version of [collections.js by Kris Kowal](https://github.com/montagejs/collections)*
+
 [![Build Status](https://travis-ci.org/montagejs/collections.png?branch=master)](http://travis-ci.org/montagejs/collections)
 
 # Collections
@@ -26,3 +28,8 @@ updated at https://github.com/montagejs/collectionsjs.com.
 
 [![Analytics](https://ga-beacon.appspot.com/UA-51771141-2/collections/readme)](https://github.com/igrigorik/ga-beacon)
 
+## Browserify
+`./node_modules/browserify/bin/cmd.js ./collections.js -o ./dist/collections.js`
+
+## Bower
+`bower install --save https://github.com/mmccartn/collections`

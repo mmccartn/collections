@@ -1,6 +1,6 @@
 {
   "name": "collections",
-  "version": "5.0.6",
+  "version": "5.0.6.1",
   "authors": [
     "Kris Kowal"
   ],
@@ -8,11 +8,6 @@
   "main": "dist/collections.js",
   "license": "BSD-3-Clause",
   "ignore": [
-    ".git*",
-    "bench",
-    "demo",
-    "listen",
-    "node_modules",
-    "test"
+    ".git*"
   ]
 }
